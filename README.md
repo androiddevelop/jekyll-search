@@ -7,7 +7,7 @@ jekyll博客搜索插件
 
 ![jekyll-search.jpg](jekyll-search.jpg)
 
-也可以打开[https://codeboy.me](https://codeboy/me)查看效果
+也可以打开[https://codeboy.me](https://codeboy.me)查看效果
 
 ### 操作
 
