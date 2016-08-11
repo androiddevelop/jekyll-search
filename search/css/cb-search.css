@@ -1,5 +1,6 @@
 		@media screen and (min-width: 768px) {
             .dropdown-menu {
+				position:relative;
                 float: none;
                 font-size: 20px;
                 width: 70%;
@@ -31,6 +32,7 @@
 
         @media screen and (max-width: 767px) {
             .dropdown-menu {
+				position:relative;
                 float: none;
                 font-size: 20px;
                 width: 96%;
