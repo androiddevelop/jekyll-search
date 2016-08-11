@@ -7,7 +7,7 @@
                 margin: 0 15%;
             }
 
-			.search-tool ul{
+			.cb-search-tool ul{
                  width: 70% ;
                  white-space:nowrap;
                  overflow:hidden;
@@ -15,7 +15,7 @@
              }
 
 
-            .search-content {
+            .cb-search-content {
                 width: 70%;
                 margin: 0 15%;
                 position: absolute;
@@ -38,14 +38,14 @@
                 width: 96%;
                 margin: 0 2%;
             }
-			.search-tool ul{
+			.cb-search-tool ul{
 				width: 96% ;
 				white-space:nowrap; 
 				overflow:hidden; 
 				text-overflow: ellipsis;
 			}
 
-            .search-content {
+            .cb-search-content {
                 width: 96%;
                 margin: 0 2%;
                 position: absolute;
