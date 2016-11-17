@@ -53,6 +53,7 @@ jekyll博客搜索插件
 <!-- Bootstrap Core JavaScript -->
 <script src="//cdn.bootcss.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 ```
+**`bootstrap3-typeahead.min.js` 的引入必须在`jquery.min.js`引入之后，即在`footer.html`中的行数更靠后！**
 
 2.默认联想8个，如果需要更多的话，请检索 `bootstrap3-typeahead.min.js` 中的**items:8**, 将**8**替换成自己需要的数值。
 
