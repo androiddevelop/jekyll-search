@@ -1,7 +1,9 @@
 # Jekyll-Search
 
 
-jekyll博客搜索插件
+#### jekyll博客搜索插件
+
+hexo博客搜索插件请前往 [Hexo-Search](https://github.com/androiddevelop/hexo-search)
 
 ### 截图
 
