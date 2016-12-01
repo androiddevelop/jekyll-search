@@ -80,6 +80,6 @@
                     }
                 });
             }
-        });
+        }).error(function(data, b) { console.log("json解析错误，搜索功能暂不可用，请检查文章title，确保不含有换行等特殊符号"); });
 
     });
