@@ -34,7 +34,7 @@ hexo博客搜索插件请前往 [Hexo-Search](https://github.com/androiddevelop/
 		    └── cb-search.js
 
 
-2. 在 `_include/footer.html` 中的 `</footer>` 前加入 `cb-footer-add.html` 中的内容即可。 
+2. 在 `_include/footer.html` 中的 `</footer>` 后加入 `cb-footer-add.html` 中的内容即可。 
 
 
 ### 注意事项
