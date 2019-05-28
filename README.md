@@ -9,7 +9,7 @@ hexo博客搜索插件请前往 [Hexo-Search](https://github.com/androiddevelop/
 
 ![jekyll-search.jpg](jekyll-search.jpg)
 
-也可以打开[http://codeboy.me](http://codeboy.me)查看效果
+也可以打开[https://www.codeboy.me](https://www.codeboy.me)查看效果
 
 ### 操作
 
@@ -62,6 +62,10 @@ hexo博客搜索插件请前往 [Hexo-Search](https://github.com/androiddevelop/
 3. 文章标题请不要使用回车等符号，回车等符号会造成json解析错误。
 
 ### 更新历史
+
+#### v1.0.3
+
+- 支持标题中含有双引号。
 
 #### v1.0.2
 
