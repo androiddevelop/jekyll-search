@@ -39,7 +39,7 @@ hexo博客搜索插件请前往 [Hexo-Search](https://github.com/androiddevelop/
 
 ### 注意事项
 
-1.需要事先引入**jquery**与**bootstrap3(js与css文件)**框架，如果没有的话，操作如下:
+1.需要事先引入 **jquery** 与 **bootstrap3(js与css文件)** 框架，如果没有的话，操作如下:
 
 在`_include/head.html` 中引入以下代码:
 
@@ -57,7 +57,7 @@ hexo博客搜索插件请前往 [Hexo-Search](https://github.com/androiddevelop/
 ```
 **`bootstrap3-typeahead.min.js` 的引入必须在`jquery.min.js`引入之后，即在`footer.html`中的行数更靠后！**
 
-2.默认联想8个，如果需要更多的话，请检索 `bootstrap3-typeahead.min.js` 中的**items:8**, 将**8**替换成自己需要的数值。
+2.默认联想8个，如果需要更多的话，请检索 `bootstrap3-typeahead.min.js` 中的 **items:8** , 将 **8** 替换成自己需要的数值。
 
 3. 文章标题请不要使用回车等符号，回车等符号会造成json解析错误。
 
