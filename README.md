@@ -63,6 +63,10 @@ hexo博客搜索插件请前往 [Hexo-Search](https://github.com/androiddevelop/
 
 ### 更新历史
 
+#### v1.0.4
+
+- 关闭chrome自动补全。
+
 #### v1.0.3
 
 - 支持标题中含有双引号。
